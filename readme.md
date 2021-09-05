@@ -1,4 +1,10 @@
+# ⚠ Abandoned project
+
+## Moved to: [telegram-client](https://github.com/chipslays/telegram-client)
+
 # PHP Telegram Userbot
+
+
 
 PHP Telegram userbot based on [MadelineProto](https://docs.madelineproto.xyz/) library.
 
